@@ -33,3 +33,4 @@ C:\Users\junallen\source\repos\Code-Challenge-MS-Full-Stack\Code-Challenge-Core-
 C:\Users\junallen\source\repos\Code-Challenge-MS-Full-Stack\Code-Challenge-Core-Web-API\Code-Challenge-Core-Web-API\obj\Debug\net6.0\ref\Code-Challenge-Core-Web-API.dll
 C:\Users\junallen\source\repos\Code-Challenge-MS-Full-Stack\Code-Challenge-Core-Web-API\Code-Challenge-Core-Web-API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\junallen\source\repos\Code-Challenge-MS-Full-Stack\Code-Challenge-Core-Web-API\Code-Challenge-Core-Web-API\bin\Debug\net6.0\Task\input_mis_data.json
+C:\Users\junallen\source\repos\Code-Challenge-MS-Full-Stack\Code-Challenge-Core-Web-API\Code-Challenge-Core-Web-API\bin\Debug\net6.0\Task\output_mis_data.json
