@@ -13,7 +13,7 @@ Note: You can view my output in the Task Folder
 *Steps to run my program*
 Note: Before running the code, create a directory path and place the input_mis_data in that path.
 
-1.Run the Code in IIS Express the code run in swagger.
+1.Run the Code the code run in swagger.
 
 2.Run the endpoint(api/SchoolStudentInfo/GetUserInfo), which has three parameters: directoryPath, inputFilename, and outputFilename. 
 #directoryPath - the location of directory path you created.
