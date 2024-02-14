@@ -298,19 +298,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\junallen\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junallen\\source\\repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Source\\Repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
       "projectName": "Code-Challenge-Core-Web-API",
-      "projectPath": "C:\\Users\\junallen\\source\\repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
-      "packagesPath": "C:\\Users\\junallen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junallen\\source\\repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Source\\Repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Source\\Repos\\Code-Challenge-MS-Full-Stack\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\junallen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -368,7 +368,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
