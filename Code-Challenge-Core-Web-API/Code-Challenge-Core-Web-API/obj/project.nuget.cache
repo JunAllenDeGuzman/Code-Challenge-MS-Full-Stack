@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0uReyftSzbfbkqdN7Sztc+tjdX2+B6SZv77tHxPLmokwox/8ZZ/i/QD9GDjS4BQT4R9BLTT3+aBet5owwPiv1w==",
+  "dgSpecHash": "jmRUPyf06kMcYdUOkCUGHmWwfgAzk4BOpBJWzT3h9dPDCj64gT8ElqZoUN6XJky5hy1ymo0TL2NqAcBunhQang==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junallen\\source\\repos\\sample1\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
+  "projectFilePath": "C:\\Users\\junallen\\Source\\Repos\\Code-Challenge-MS-Full-Stack-1\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API\\Code-Challenge-Core-Web-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junallen\\.nuget\\packages\\aspnetcorehero.results\\1.1.1\\aspnetcorehero.results.1.1.1.nupkg.sha512",
     "C:\\Users\\junallen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
