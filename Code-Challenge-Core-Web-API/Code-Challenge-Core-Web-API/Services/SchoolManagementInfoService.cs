@@ -74,7 +74,7 @@ namespace Code_Challenge_Core_Web_API.Services
             // Serializing the custom response object
             File.WriteAllText(outputFilePath, JsonConvert.SerializeObject(outputData));
 
-            return Result<OutputModel>.Success(outputData, "Success");
+            return Result<OutputModel>.Success(outputData, "Successfully parse the input_mis_data.json file and output the data in the same format as output_mis_data.json. You can view the file in the path you created" + outputFilePath);
         }
     }
 }
